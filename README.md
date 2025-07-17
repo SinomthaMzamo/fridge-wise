@@ -17,12 +17,6 @@
 - 💾 Optional image storage on AWS S3
 - 📅 Optional expiry notifications (via email or Slack)
 
-### Contribution guidelines ###
----
-
-* Writing tests
-* Code review
-* Other guidelines
 ## 🧱 Tech Stack
 
 ### Frontend
